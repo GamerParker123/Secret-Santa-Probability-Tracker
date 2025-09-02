@@ -29,3 +29,6 @@ https://www.youtube.com/watch?v=5kC5k5QBqcc
   pip install -r requirements.txt
 4. Run the program:
   python main.py
+
+Screenshot:
+<img width="996" height="484" alt="image" src="https://github.com/user-attachments/assets/26203709-37f6-4b3a-b171-b52a05150bb9" />
