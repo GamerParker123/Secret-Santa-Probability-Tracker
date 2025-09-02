@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=5kC5k5QBqcc
 ## Run
 1. Open your terminal or command prompt
 2. Navigate to your project folder:
-  cd <file-path-to-your-project-folder>
+  cd {file-path-to-your-project-folder}
 3. Install required packages:
   pip install -r requirements.txt
 4. Run the program:
